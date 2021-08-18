@@ -1,0 +1,117 @@
+1627543648147	geckodriver	INFO	Listening on 127.0.0.1:64044
+1627543651174	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramadhma\\AppData\\Local\\Temp\\rust_mozprofileWRWeNu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 167: TypeError: date is undefined
+1627543654229	Marionette	INFO	Listening on port 52789
+1627543654260	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627543680920	Marionette	INFO	Stopped listening on port 52789
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramadhma\\AppData\\Local\\Temp\\rust_mozprofilef3e9JS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 167: TypeError: date is undefined
+1627543662762	Marionette	INFO	Listening on port 63607
+1627543662808	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627543678641	Marionette	INFO	Stopped listening on port 63607
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofilegVcKJl"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 167: TypeError: date is undefined
+1627543670750	Marionette	INFO	Listening on port 64010
+1627543670823	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627543677263	Marionette	INFO	Stopped listening on port 64010
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1627543715702	geckodriver	INFO	Listening on 127.0.0.1:60325
+1627543718743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramadhma\\AppData\\Local\\Temp\\rust_mozprofileuUim44"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 167: TypeError: date is undefined
+1627543720849	Marionette	INFO	Listening on port 64064
+1627543720896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627543723623	Marionette	INFO	Stopped listening on port 64064
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1627543724304	geckodriver	INFO	Listening on 127.0.0.1:53143
+1627543727329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramadhma\\AppData\\Local\\Temp\\rust_mozprofileBBz6oy"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 167: TypeError: date is undefined
+1627543729333	Marionette	INFO	Listening on port 56063
+1627543729366	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627543732199	Marionette	INFO	Stopped listening on port 56063
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1627543732958	geckodriver	INFO	Listening on 127.0.0.1:57365
+1627543735986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramadhma\\AppData\\Local\\Temp\\rust_mozprofile58s5mr"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 167: TypeError: date is undefined
+1627543737974	Marionette	INFO	Listening on port 52819
+1627543738041	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627543741000	Marionette	INFO	Stopped listening on port 52819
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1627543765585	geckodriver	INFO	Listening on 127.0.0.1:64296
+1627543768621	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramadhma\\AppData\\Local\\Temp\\rust_mozprofileKBfV5H"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 167: TypeError: date is undefined
+1627543770717	Marionette	INFO	Listening on port 54231
+1627543770761	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627543783298	Marionette	INFO	Stopped listening on port 54231
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1627543784012	geckodriver	INFO	Listening on 127.0.0.1:52476
+1627543787068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramadhma\\AppData\\Local\\Temp\\rust_mozprofile0jNOX5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1627543788990	Marionette	INFO	Listening on port 62699
+1627543789411	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 167: TypeError: date is undefined
+1627543801899	Marionette	INFO	Stopped listening on port 62699
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1627543802607	geckodriver	INFO	Listening on 127.0.0.1:64669
+1627543805649	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramadhma\\AppData\\Local\\Temp\\rust_mozprofileMwyGhA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 167: TypeError: date is undefined
+1627543807631	Marionette	INFO	Listening on port 56828
+1627543807692	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627543820454	Marionette	INFO	Stopped listening on port 56828
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1627548371434	geckodriver	INFO	Listening on 127.0.0.1:59847
+1627548374476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramadhma\\AppData\\Local\\Temp\\rust_mozprofilemWzj7A"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 167: TypeError: date is undefined
+1627548377616	Marionette	INFO	Listening on port 49695
+1627548377982	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1627548379009	Marionette	INFO	Stopped listening on port 49691627548382030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ramadhma\\AppData\\Local\\Temp\\rust_mozprofileqe3YyB"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 167: TypeError: date is undefined
+1627548384048	Marionette	INFO	Listening on port 56703
+1627548384075	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+JavaScript error: resource:///actors/AboutReaderChild.jsm, line 95: NS_ERROR_UNEXPECTED: 
